@@ -1,31 +1,35 @@
-# (Application Name)
+# Coin Counter
 
-#### (Brief Description of Application)
+#### Takes X amount of money and determines exact change needed
 
-#### By (Your Name Here)
+#### By Shaniza Lingle and Keisha Hepner
 
 ## GitHub Pages
+_https://github.com/shanizalingle/coin-counter.git_
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* _JavaScript_
+* _HTML_
+* _Babel_
+* _ESlint_
+* _Jest_
+* _Webpack_
 
 ## Description
+_The coin counter application takes X amount of money (such as $4.99) and determines the exact amount of change needed in quarters, dimes, nickels and pennies._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Clone this repository ```https://github.com/shanizalingle/coin-counter.git``` into your desktop_
+* _Navigate to the coin-counter directory_
+* _Open index.html_
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _N/A_
 
 ## License
+_[MIT](https://en.wikipedia.org/wiki/MIT_License)_
+
+Copyright (c) _2022_ _Shaniza Lingle, Keisha Hepner_

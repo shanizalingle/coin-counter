@@ -11,7 +11,7 @@ module.exports = {
   },
   devtool: 'eval-source-map',
   devServer: {               
-    contentBase: './dist'    
+    static: './dist'    
   },
   plugins: [
     new ESLintPlugin(),
